@@ -3,7 +3,7 @@ The finite element method for 3D-elastic objects, this simualtion uses tetrahedr
 
 ## Compilation for Testing
 
-Compiling the code in the above manner will yield working, but very slow executables. To run the code at full speed, you should compile it in release mode. Starting in the **build directory**, do the following:
+Compiling the code in the default manner will yield working, but very slow executables. To run the code at full speed, you should compile it in release mode. Starting in the **build directory**, do the following:
 
     cmake .. -DCMAKE_BUILD_TYPE=Release
     
