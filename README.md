@@ -18,6 +18,7 @@ Once built, you can execute the assignment from inside the `build/` using
 
     ./a3-finite-elements-3d
 ![Stanford Bunny simulated via Finite Element Elasticity](img/bunny.gif) 
+
 Or 
 
     ./a3-finite-elements-3d arma
