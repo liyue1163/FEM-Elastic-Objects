@@ -10,13 +10,7 @@ Compiling the code in the above manner will yield working, but very slow executa
 Followed by:
 
     make 
-  
-Your code should now run significantly (sometimes as much as ten times) faster. 
 
-If you are using Windows, then running `cmake ..` should have created a Visual Studio solution file
-called `a3-finite-elements-3d.sln` that you can open and build from there. Building the project will generate an .exe file.
-
-Why don't you try this right now?
 
 ## Execution
 
@@ -30,4 +24,4 @@ Or
 
 ![Armadillo simulated via Finite Element Elasticity](img/armadillo.gif)
 
-
+double pressing `S` to switch between the underlying coarse model (default on load-up) and the detailed "skin" model.
