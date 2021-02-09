@@ -1,5 +1,5 @@
 # FEM-Elastic-Objects
-The finite element method for 3D-elastic objects 
+The finite element method for 3D-elastic objects, this simualtion uses tetrahedron as the basic space volume.
 
 ## Compilation for Testing
 
