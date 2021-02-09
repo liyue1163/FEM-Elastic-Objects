@@ -22,6 +22,6 @@ Or
 
     ./a3-finite-elements-3d arma
 
-![Armadillo simulated via Finite Element Elasticity](img/armadillo.gif)
+![Armadillo simulated via Finite Element Elasticity](img/arma.gif)
 
 double pressing `S` to switch between the underlying coarse model (default on load-up) and the detailed "skin" model.
